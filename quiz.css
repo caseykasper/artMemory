@@ -1,0 +1,10 @@
+h1 {
+    justify-content: center;
+
+}
+
+.quiz-container {
+    max-width: 300px;
+    display: block;
+    margin: 10px auto;
+}
