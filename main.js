@@ -162,7 +162,7 @@ const quizData = [
         fact: ""
     },
     {
-        image: "Images/LaMouseme.jpg",
+        image: "Images/LaMousme.jpg",
         artTitle: "La Mousmé",
         artist: "Van Gogh",
         artAnswers: ["La Mousmé", "La Mousme"],
